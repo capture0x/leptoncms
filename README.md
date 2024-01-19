@@ -1,4 +1,4 @@
-## Exploit Title: Lepsem : 7.0.0  Remote Code Execution
+## Exploit Title: LeptonCMS : 7.0.0  Remote Code Execution
 ### Date: 2024-1-19
 ### Exploit Author: tmrswrr
 ### Category: Webapps
